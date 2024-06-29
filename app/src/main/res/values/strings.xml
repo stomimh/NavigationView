@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationDrawBar</string>
+    <string name="open">열기</string>
+    <string name="closed">닫기</string>
+</resources>
